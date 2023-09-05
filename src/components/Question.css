@@ -1,0 +1,30 @@
+#question{
+    text-align: center;
+    max-width: 95%;
+    background-color: #ff6347;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+#question h3,
+#question p,
+#question h4{
+    margin-bottom: 1rem;
+}
+
+#question h2{
+    margin-bottom: 2rem;
+    font-size:x-large;
+}
+
+#question p{
+    margin-bottom: 1rem;
+}
+
+#question button{
+    border: 2px solid #fff;
+}
+
+#question .textlink{
+    cursor: pointer;
+}
